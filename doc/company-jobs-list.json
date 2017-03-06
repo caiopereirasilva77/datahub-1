@@ -2,8 +2,8 @@
     "pending": [
         {
             "jobId": 8,
-            "title": "",
-            "description": "Homicide Report blah blah blah ....",
+            "title": "Indicador de Faturamento Presumido",
+            "description": "É o indicador que estima o faturamento dos últimos 12 meses da empresa com base em suas informações do dataset SIMM",
             "lastUpdate": "2017-03-03",
             "scientists": [
                 {
@@ -55,8 +55,10 @@
     "done": [
         {
             "jobId": 1,
-            "title": "Who Killed Who? Ex-Husband VS Ex-Wife",
-            "description": "Homicide Report blah blah blah ....",
+            "title": "Indicador de saúde tributária",
+            "description": "O Indicador de Saúde Tributária classifica as empresas em 5 categorias, do verde ao vermelho onde, 
+		           "respectivamente, a saúde vai da quitação total das dívidas com o fisco à existência de débito em 
+		           "todas as certidões analisadas.",
             "lastUpdate": "2017-03-03",
             "price": 15450.00,
             "scientist": {
@@ -86,8 +88,10 @@
         },
         {
             "jobId": 3,
-            "title": "Who Killed Who? Ex-Husband VS Ex-Wife",
-            "description": "Homicide Report blah blah blah ....",
+            "title": "Indicador de Estabilidade de Emprego",
+            "description": "é o indicador que classifica os CPFs com histórico de vinculo empregatício de acordo com sua probabilidade
+	   		   "de se manter no emprego atual por mais de 12 meses. O cálculo da probabilidade utilizada leva em conta
+	    		   "informações cadastrais do CPF e de seu histórico funcional.",
             "lastUpdate": "2017-03-03",
             "price": 15450.00,
             "scientist": {
@@ -100,8 +104,9 @@
         },
         {
             "jobId": 4,
-            "title": "Who Killed Who? Ex-Husband VS Ex-Wife",
-            "description": "Homicide Report blah blah blah ....",
+            "title": "Indicador de Crescimento de Empresas",
+            "description": "É o indicador que apresenta ao usuário do SIMM a evolução do crescimento do porte da empresa ( número de funcionários) 
+	    	           "e retorna o valor previsto de crescimento para o trimestre seguinte ainda não observado.",
             "lastUpdate": "2017-03-03",
             "price": 15450.00,
             "scientist": {
@@ -114,8 +119,10 @@
         },
         {
             "jobId": 5,
-            "title": "Who Killed Who? Ex-Husband VS Ex-Wife",
-            "description": "Homicide Report blah blah blah ....",
+            "title": "Indicador Potencial de Consumo Censitário",
+            "description": "É o indicador que classifica um setor censitário de acordo com as informações das empresas, empregados e residentes 
+	                   "localizados no setor. Com base nessas informações o indicador classifica os setores censitários por ordem de
+	                   "potencialidade econômica e, por conseguinte, consumo. ",
             "lastUpdate": "2017-03-03",
             "price": 15450.00,
             "scientist": {
