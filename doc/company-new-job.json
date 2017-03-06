@@ -1,7 +1,8 @@
 {
     "id": 20,
-    "title": "blah blah blah blah",
-    "description": "fsdfsd ff sdf sdf sdfsdf sdf sdf",
+    "title": "Cobertura de planos de saúde",
+    "description": "Este conjunto de dados fornece dados da cobertura dos planos de saúde
+                   "com estimativas dos individuos cobertos pelo empregador e planos de saúde.",
     "accuracyRequired": 90.5,
     "deadline": "2017-03-20",
     "proposedPrice": 15000.00,
