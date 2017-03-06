@@ -23,8 +23,9 @@
     "doing": [
         {
             "jobId": 6,
-            "title": "",
-            "description": "blah blah blah ....",
+            "title": "Machine Learning do desastre do Titanic",
+            "description": "O naufrágio do Titanic é um dos mais famosos da historia, 
+		           "pedimos que você aplique Machine Learning para prever que tipo de passageiro sobreviveria a tragédia.",
             "lastUpdate": "2017-03-03",
             "price": 15450.00,
             "scientist": {
@@ -37,7 +38,7 @@
         },
         {
             "jobId": 7,
-            "title": "",
+            "title": "Prever a diabetes com base em um conjunto de diagnosticos de exames. ",
             "description": "Este dataset é originalmente baseado no Instituto de Diabetes,Digestivo e doenças renais.
 		           "O objetivo é predizer com base em exames de diagnosticos se um paciente tem diabetes.",
             "lastUpdate": "2017-03-03",
@@ -68,8 +69,11 @@
         },
         {
             "jobId": 2,
-            "title": "Who Killed Who? Ex-Husband VS Ex-Wife",
-            "description": "Homicide Report blah blah blah ....",
+            "title": "Reconhecimento de gênero pela voz",
+            "description": " Este dataset, foi criado para identificar a voz de homens e mulheres, baseados nas propriedades
+		           " acústicas da voz, o dataset, consiste em 3.168 amostras de gravações de vozes de homens e mulheres"
+		           " as amostras de voz são pré-processadas por análise acústica em R usando as bibliotecas seewave e
+			   " tuneR, com uma faixa de frequência analisada de 0hz-280hz(faixa vocal humana).",
             "lastUpdate": "2017-03-03",
             "price": 15450.00,
             "scientist": {
