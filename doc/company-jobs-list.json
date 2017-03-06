@@ -38,7 +38,8 @@
         {
             "jobId": 7,
             "title": "",
-            "description": "blah blah blah ....",
+            "description": "Este dataset é originalmente baseado no Instituto de Diabetes,Digestivo e doenças renais.
+		           "O objetivo é predizer com base em exames de diagnosticos se um paciente tem diabetes.",
             "lastUpdate": "2017-03-03",
             "price": 15450.00,
             "scientist": {
